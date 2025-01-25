@@ -1,12 +1,12 @@
 # Scrape https://www.buonissimo.it:
 
+# Import Libraries
 import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import string
 import time
 
-# Master List 
 master_list = []
 
 def get_ingredient_info(letter, page):
