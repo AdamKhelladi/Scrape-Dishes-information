@@ -1,4 +1,4 @@
-# Scrape https://www.buonissimo.it:
+# Scraping: https://www.buonissimo.it
 
 # Import Libraries
 import requests
