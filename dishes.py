@@ -1,6 +1,6 @@
 # Scraping: https://www.buonissimo.it
 
-# Libraries
+# Import Libraries
 import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
