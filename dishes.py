@@ -1,5 +1,5 @@
 # Scraping: https://www.buonissimo.it
-
+   
 # Import libraries
 import requests
 from bs4 import BeautifulSoup as bs
