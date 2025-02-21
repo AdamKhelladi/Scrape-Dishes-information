@@ -10,7 +10,6 @@ import time
 master_list = []
 
 def get_ingredient_info(letter, page):
-  
   url = f"https://www.buonissimo.it/ingredienti/lettera/{letter}/pagina/{page}/" 
   html = requests.get(url).text 
   soup = bs(html, "html.parser")
