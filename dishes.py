@@ -45,14 +45,4 @@ print("file created.")
 
 
 
-
-
-
-
-
-
-
-
-
-
  
