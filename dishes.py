@@ -43,12 +43,3 @@ print("file created.")
 
 
 
-
-
-
-
-
-
-
-
-
