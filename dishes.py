@@ -41,5 +41,3 @@ for letter in string.ascii_uppercase:
 
 print("file created.")
 
-
-
